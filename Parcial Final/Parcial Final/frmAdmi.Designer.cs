@@ -31,6 +31,8 @@ namespace FinalParcial
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources =
+                new System.ComponentModel.ComponentResourceManager(typeof(frmAdmi));
             this.tabControl2 = new System.Windows.Forms.TabControl();
             this.tabPage5 = new System.Windows.Forms.TabPage();
             this.comboBoxView = new System.Windows.Forms.ComboBox();
@@ -109,6 +111,7 @@ namespace FinalParcial
             // 
             // tabPage5
             // 
+            this.tabPage5.BackColor = System.Drawing.Color.RoyalBlue;
             this.tabPage5.Controls.Add(this.comboBoxView);
             this.tabPage5.Controls.Add(this.dataGridView);
             this.tabPage5.Location = new System.Drawing.Point(4, 29);
@@ -118,7 +121,6 @@ namespace FinalParcial
             this.tabPage5.Size = new System.Drawing.Size(1058, 659);
             this.tabPage5.TabIndex = 0;
             this.tabPage5.Text = "Ver";
-            this.tabPage5.UseVisualStyleBackColor = true;
             // 
             // comboBoxView
             // 
@@ -142,6 +144,7 @@ namespace FinalParcial
             // 
             // tabPage6
             // 
+            this.tabPage6.BackColor = System.Drawing.Color.RoyalBlue;
             this.tabPage6.Controls.Add(this.label11);
             this.tabPage6.Controls.Add(this.comboBoxDepAdd);
             this.tabPage6.Controls.Add(this.label9);
@@ -160,14 +163,13 @@ namespace FinalParcial
             this.tabPage6.Controls.Add(this.label3);
             this.tabPage6.Controls.Add(this.label2);
             this.tabPage6.Controls.Add(this.buttonAdd);
-            this.tabPage6.Location = new System.Drawing.Point(4, 25);
+            this.tabPage6.Location = new System.Drawing.Point(4, 29);
             this.tabPage6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tabPage6.Name = "tabPage6";
             this.tabPage6.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.tabPage6.Size = new System.Drawing.Size(1058, 663);
+            this.tabPage6.Size = new System.Drawing.Size(1058, 659);
             this.tabPage6.TabIndex = 1;
             this.tabPage6.Text = "Agregar";
-            this.tabPage6.UseVisualStyleBackColor = true;
             // 
             // label11
             // 
@@ -188,6 +190,7 @@ namespace FinalParcial
             // 
             // label9
             // 
+            this.label9.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.label9.Location = new System.Drawing.Point(523, 402);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(123, 32);
@@ -196,6 +199,7 @@ namespace FinalParcial
             // 
             // label8
             // 
+            this.label8.BackColor = System.Drawing.Color.LightSkyBlue;
             this.label8.Location = new System.Drawing.Point(350, 402);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(123, 32);
@@ -204,11 +208,12 @@ namespace FinalParcial
             // 
             // label7
             // 
+            this.label7.BackColor = System.Drawing.Color.CornflowerBlue;
             this.label7.Location = new System.Drawing.Point(200, 402);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(123, 32);
             this.label7.TabIndex = 15;
-            this.label7.Text = "Año";
+            this.label7.Text = "Año:";
             // 
             // comboBoxDay
             // 
@@ -324,6 +329,7 @@ namespace FinalParcial
             // 
             // tabPage18
             // 
+            this.tabPage18.BackColor = System.Drawing.Color.RoyalBlue;
             this.tabPage18.Controls.Add(this.comboBoxNewDep);
             this.tabPage18.Controls.Add(this.label12);
             this.tabPage18.Controls.Add(this.textBox5);
@@ -333,14 +339,13 @@ namespace FinalParcial
             this.tabPage18.Controls.Add(this.label18);
             this.tabPage18.Controls.Add(this.comboBoxDepModify);
             this.tabPage18.Controls.Add(this.button2);
-            this.tabPage18.Location = new System.Drawing.Point(4, 25);
+            this.tabPage18.Location = new System.Drawing.Point(4, 29);
             this.tabPage18.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tabPage18.Name = "tabPage18";
             this.tabPage18.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.tabPage18.Size = new System.Drawing.Size(1058, 663);
+            this.tabPage18.Size = new System.Drawing.Size(1058, 659);
             this.tabPage18.TabIndex = 4;
             this.tabPage18.Text = "Modificar";
-            this.tabPage18.UseVisualStyleBackColor = true;
             // 
             // comboBoxNewDep
             // 
@@ -397,7 +402,7 @@ namespace FinalParcial
             // 
             this.label18.Location = new System.Drawing.Point(19, 19);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(104, 26);
+            this.label18.Size = new System.Drawing.Size(110, 25);
             this.label18.TabIndex = 2;
             this.label18.Text = "Departamento:";
             this.label18.Click += new System.EventHandler(this.label18_Click_1);
@@ -426,18 +431,18 @@ namespace FinalParcial
             // 
             // tabPage7
             // 
+            this.tabPage7.BackColor = System.Drawing.Color.RoyalBlue;
             this.tabPage7.Controls.Add(this.label13);
             this.tabPage7.Controls.Add(this.comboBox5);
             this.tabPage7.Controls.Add(this.comboBoxDeleteDep);
             this.tabPage7.Controls.Add(this.button3);
             this.tabPage7.Controls.Add(this.label1);
-            this.tabPage7.Location = new System.Drawing.Point(4, 25);
+            this.tabPage7.Location = new System.Drawing.Point(4, 29);
             this.tabPage7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tabPage7.Name = "tabPage7";
-            this.tabPage7.Size = new System.Drawing.Size(1058, 663);
+            this.tabPage7.Size = new System.Drawing.Size(1058, 659);
             this.tabPage7.TabIndex = 5;
             this.tabPage7.Text = "Eliminar";
-            this.tabPage7.UseVisualStyleBackColor = true;
             // 
             // label13
             // 
@@ -489,16 +494,17 @@ namespace FinalParcial
             // tabPage1
             // 
             this.tabPage1.Controls.Add(this.tableLayoutPanel1);
-            this.tabPage1.Location = new System.Drawing.Point(4, 25);
+            this.tabPage1.Location = new System.Drawing.Point(4, 29);
             this.tabPage1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Size = new System.Drawing.Size(1058, 663);
+            this.tabPage1.Size = new System.Drawing.Size(1058, 659);
             this.tabPage1.TabIndex = 6;
             this.tabPage1.Text = "Resumenes";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
             // tableLayoutPanel1
             // 
+            this.tableLayoutPanel1.BackColor = System.Drawing.Color.RoyalBlue;
             this.tableLayoutPanel1.ColumnCount = 2;
             this.tableLayoutPanel1.ColumnStyles.Add(
                 new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
@@ -517,7 +523,7 @@ namespace FinalParcial
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
             this.tableLayoutPanel1.RowStyles.Add(
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 80F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(1058, 663);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1058, 659);
             this.tableLayoutPanel1.TabIndex = 0;
             this.tableLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.tableLayoutPanel1_Paint);
             // 
@@ -535,10 +541,10 @@ namespace FinalParcial
             this.dataGridView1.ColumnHeadersHeightSizeMode =
                 System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dataGridView1.Location = new System.Drawing.Point(3, 136);
+            this.dataGridView1.Location = new System.Drawing.Point(3, 135);
             this.dataGridView1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(523, 523);
+            this.dataGridView1.Size = new System.Drawing.Size(523, 520);
             this.dataGridView1.TabIndex = 0;
             // 
             // dataGridView2
@@ -546,10 +552,10 @@ namespace FinalParcial
             this.dataGridView2.ColumnHeadersHeightSizeMode =
                 System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dataGridView2.Location = new System.Drawing.Point(532, 136);
+            this.dataGridView2.Location = new System.Drawing.Point(532, 135);
             this.dataGridView2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.Size = new System.Drawing.Size(523, 523);
+            this.dataGridView2.Size = new System.Drawing.Size(523, 520);
             this.dataGridView2.TabIndex = 1;
             // 
             // label15
@@ -558,18 +564,18 @@ namespace FinalParcial
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(289, 51);
             this.label15.TabIndex = 2;
-            this.label15.Text = "Departamento las activo: ";
+            this.label15.Text = "Departamento :";
             // 
             // tabPage2
             // 
+            this.tabPage2.BackColor = System.Drawing.Color.RoyalBlue;
             this.tabPage2.Controls.Add(this.button1);
-            this.tabPage2.Location = new System.Drawing.Point(4, 25);
+            this.tabPage2.Location = new System.Drawing.Point(4, 29);
             this.tabPage2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Size = new System.Drawing.Size(1058, 663);
+            this.tabPage2.Size = new System.Drawing.Size(1058, 659);
             this.tabPage2.TabIndex = 7;
             this.tabPage2.Text = "Salir";
-            this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // button1
             // 
@@ -586,11 +592,13 @@ namespace FinalParcial
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.ClientSize = new System.Drawing.Size(1066, 692);
             this.Controls.Add(this.tabControl2);
+            this.Icon = ((System.Drawing.Icon) (resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frmAdmi";
-            this.Text = "frmAdmi";
+            this.Text = "HOSPITAL DE EL SALVADOR";
             this.Load += new System.EventHandler(this.frmAdmi_Load);
             this.tabControl2.ResumeLayout(false);
             this.tabPage5.ResumeLayout(false);

@@ -16,7 +16,7 @@ namespace FinalParcial
 
         private void FrmEmployee_Load(object sender, EventArgs e)
         {
-            dataGridView1.DataSource=Connection.Query($"select * from registro where idusuario={u.idUser}");
+            dataGridView1.DataSource=Connection.Query($"select * from registro where idusuario={u.idUser} order by temperatura");
         }
     }
 }

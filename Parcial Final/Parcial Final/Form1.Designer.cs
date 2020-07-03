@@ -90,6 +90,7 @@
             // 
             // btnCambiarcontrasena
             // 
+            this.btnCambiarcontrasena.ForeColor = System.Drawing.Color.Black;
             this.btnCambiarcontrasena.Location = new System.Drawing.Point(67, 351);
             this.btnCambiarcontrasena.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnCambiarcontrasena.Name = "btnCambiarcontrasena";

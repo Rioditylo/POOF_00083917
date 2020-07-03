@@ -43,7 +43,7 @@ namespace FinalParcial
                 }
                 catch (System.Exception)
                 {
-                    MessageBox.Show("Contrasena mas actualizada", 
+                    MessageBox.Show("Contrasena  actualizada!!!!", 
                         "Parcialfinal", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }

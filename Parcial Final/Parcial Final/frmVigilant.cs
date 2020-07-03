@@ -15,9 +15,8 @@ namespace FinalParcial
         private Registry R;
         private IStrategy mainStrategy = new SEmployee();
         List<string> keys = new List<string>();
-        public frmVigilant(User u)
+        public frmVigilant()
         {
-            this.u = u;
             InitializeComponent();
         }
 
@@ -32,11 +31,6 @@ namespace FinalParcial
             timer1.Start();
             tabPage1.Text = "Control";
             tabPage2.Text = "Historial";
-            if (ClaseBD.RegisterController.Status(u.idUser))
-            {
-                button1.Enabled=false;
-                button2.Enabled = true;
-            }
             foreach (DataRow row in mainStrategy.show().Rows)
             {
                 comboBox1.Items.Add(row[0].ToString()+" - "+row[3].ToString());
@@ -116,14 +110,15 @@ namespace FinalParcial
             if (num % 2 ==0)
             {
                 button1.Enabled = true;
+                //textBox1.Enabled = true;
                 button2.Enabled = false;
-                textBox2.Enabled = false;
+                //textBox2.Enabled = false;
             }
             else
             {
                 button1.Enabled = false;
                 button2.Enabled = true;
-                textBox1.Enabled = false;
+                //textBox1.Enabled = false;
             }
         }
     }

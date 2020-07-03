@@ -31,6 +31,8 @@ namespace FinalParcial
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources =
+                new System.ComponentModel.ComponentResourceManager(typeof(frmcambiarcontra));
             this.cmbUsuarioCambiarcontra = new System.Windows.Forms.ComboBox();
             this.txtContrasenactual = new System.Windows.Forms.TextBox();
             this.txtContrasenanueva = new System.Windows.Forms.TextBox();
@@ -46,73 +48,78 @@ namespace FinalParcial
             // cmbUsuarioCambiarcontra
             // 
             this.cmbUsuarioCambiarcontra.FormattingEnabled = true;
-            this.cmbUsuarioCambiarcontra.Location = new System.Drawing.Point(338, 47);
+            this.cmbUsuarioCambiarcontra.Location = new System.Drawing.Point(386, 62);
+            this.cmbUsuarioCambiarcontra.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.cmbUsuarioCambiarcontra.Name = "cmbUsuarioCambiarcontra";
-            this.cmbUsuarioCambiarcontra.Size = new System.Drawing.Size(140, 23);
+            this.cmbUsuarioCambiarcontra.Size = new System.Drawing.Size(159, 28);
             this.cmbUsuarioCambiarcontra.TabIndex = 5;
             // 
             // txtContrasenactual
             // 
-            this.txtContrasenactual.Location = new System.Drawing.Point(338, 126);
+            this.txtContrasenactual.Location = new System.Drawing.Point(386, 168);
+            this.txtContrasenactual.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtContrasenactual.Name = "txtContrasenactual";
-            this.txtContrasenactual.Size = new System.Drawing.Size(140, 23);
+            this.txtContrasenactual.Size = new System.Drawing.Size(159, 27);
             this.txtContrasenactual.TabIndex = 6;
             // 
             // txtContrasenanueva
             // 
-            this.txtContrasenanueva.Location = new System.Drawing.Point(338, 200);
+            this.txtContrasenanueva.Location = new System.Drawing.Point(386, 266);
+            this.txtContrasenanueva.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtContrasenanueva.Name = "txtContrasenanueva";
-            this.txtContrasenanueva.Size = new System.Drawing.Size(140, 23);
+            this.txtContrasenanueva.Size = new System.Drawing.Size(159, 27);
             this.txtContrasenanueva.TabIndex = 7;
             // 
             // txtRepetirnueva
             // 
-            this.txtRepetirnueva.Location = new System.Drawing.Point(338, 272);
+            this.txtRepetirnueva.Location = new System.Drawing.Point(386, 362);
+            this.txtRepetirnueva.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtRepetirnueva.Name = "txtRepetirnueva";
-            this.txtRepetirnueva.Size = new System.Drawing.Size(140, 23);
+            this.txtRepetirnueva.Size = new System.Drawing.Size(159, 27);
             this.txtRepetirnueva.TabIndex = 8;
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(177, 47);
+            this.label1.Location = new System.Drawing.Point(202, 62);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(138, 24);
+            this.label1.Size = new System.Drawing.Size(158, 32);
             this.label1.TabIndex = 9;
-            this.label1.Text = "usuario:";
+            this.label1.Text = "USUARIO:\r\n";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
             // 
-            this.label2.Location = new System.Drawing.Point(194, 125);
+            this.label2.Location = new System.Drawing.Point(222, 166);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(138, 24);
+            this.label2.Size = new System.Drawing.Size(158, 32);
             this.label2.TabIndex = 10;
-            this.label2.Text = "Contrasena actual:";
+            this.label2.Text = "ACTUAL CONTRA:";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label3
             // 
-            this.label3.Location = new System.Drawing.Point(194, 200);
+            this.label3.Location = new System.Drawing.Point(222, 266);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(138, 24);
+            this.label3.Size = new System.Drawing.Size(158, 32);
             this.label3.TabIndex = 11;
-            this.label3.Text = "Contrasena nueva:";
+            this.label3.Text = "CONTRA NUEVA:\r\n";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label4
             // 
-            this.label4.Location = new System.Drawing.Point(194, 272);
+            this.label4.Location = new System.Drawing.Point(222, 362);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(138, 24);
+            this.label4.Size = new System.Drawing.Size(158, 32);
             this.label4.TabIndex = 12;
-            this.label4.Text = "Repetir nueva:";
+            this.label4.Text = "REPITA CONTRA:";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnCancel
             // 
-            this.btnCancel.Location = new System.Drawing.Point(338, 337);
+            this.btnCancel.Location = new System.Drawing.Point(386, 449);
+            this.btnCancel.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnCancel.Name = "btnCancel";
-            this.btnCancel.Size = new System.Drawing.Size(121, 46);
+            this.btnCancel.Size = new System.Drawing.Size(138, 61);
             this.btnCancel.TabIndex = 13;
             this.btnCancel.Text = "Cancelar";
             this.btnCancel.UseVisualStyleBackColor = true;
@@ -120,9 +127,10 @@ namespace FinalParcial
             // 
             // btnChangepassword
             // 
-            this.btnChangepassword.Location = new System.Drawing.Point(108, 337);
+            this.btnChangepassword.Location = new System.Drawing.Point(123, 449);
+            this.btnChangepassword.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnChangepassword.Name = "btnChangepassword";
-            this.btnChangepassword.Size = new System.Drawing.Size(121, 46);
+            this.btnChangepassword.Size = new System.Drawing.Size(138, 61);
             this.btnChangepassword.TabIndex = 14;
             this.btnChangepassword.Text = "Cambiar contrasena";
             this.btnChangepassword.UseVisualStyleBackColor = true;
@@ -130,9 +138,10 @@ namespace FinalParcial
             // 
             // frmcambiarcontra
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(537, 429);
+            this.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.ClientSize = new System.Drawing.Size(614, 572);
             this.Controls.Add(this.btnChangepassword);
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.label4);
@@ -143,8 +152,10 @@ namespace FinalParcial
             this.Controls.Add(this.txtContrasenanueva);
             this.Controls.Add(this.txtContrasenactual);
             this.Controls.Add(this.cmbUsuarioCambiarcontra);
+            this.Icon = ((System.Drawing.Icon) (resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frmcambiarcontra";
-            this.Text = "frmcambiarcontra";
+            this.Text = "HOSPITAL DE EL SALVADOR";
             this.Load += new System.EventHandler(this.frmcambiarcontra_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
