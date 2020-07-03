@@ -1,0 +1,158 @@
+C:\Users\MORIS\Desktop\Parcialfinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MORIS\Desktop\Parcialfinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MORIS\Desktop\Parcialfinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MORIS\Desktop\Parcialfinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\MORIS\Desktop\Parcialfinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MORIS\Desktop\Parcialfinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MORIS\Desktop\Parcialfinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MORIS\Desktop\Parcialfinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MORIS\Desktop\Parcialfinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\Npgsql.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Threading.Channels.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\Npgsql.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Threading.Channels.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\obj\Debug\FinalParcial.Form1.resources
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\obj\Debug\FinalParcial.frmcambiarcontra.resources
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\obj\Debug\FinalParcial.frmEmpleado.resources
+C:\Users\CORE i5\Desktop\Nueva carpeta\POOF_00018619_00012119\parcialfinal\WindowsFormsApp2\obj\Debug\FinalParcial.frmVigilante.resources
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\FinalParcial.Form1.resources
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\FinalParcial.frmcambiarcontra.resources
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\FinalParcial.frmEmpleado.resources
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\FinalParcial.frmVigilante.resources
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\Npgsql.dll
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Buffers.dll
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Memory.dll
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Text.Json.dll
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Threading.Channels.dll
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.ValueTuple.dll
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\Npgsql.xml
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Buffers.xml
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Memory.xml
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Text.Json.xml
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Threading.Channels.xml
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.ValueTuple.xml
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\FinalParcial.frmAdmi.resources
+C:\Users\MORIS\Desktop\parcial3\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\WindowsFormsApp2.exe
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\Npgsql.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Buffers.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Memory.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Text.Json.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Threading.Channels.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.ValueTuple.dll
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\Npgsql.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Buffers.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Memory.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Text.Json.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Threading.Channels.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\bin\Debug\System.ValueTuple.xml
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\FinalParcial.Form1.resources
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\FinalParcial.frmAdmi.resources
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\FinalParcial.frmcambiarcontra.resources
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\WindowsFormsApp2.exe
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\FinalParcial.frmVigilant.resources
+C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial\obj\Debug\FinalParcial.FrmEmployee.resources
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\Npgsql.dll
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Buffers.dll
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Memory.dll
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Text.Json.dll
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Threading.Channels.dll
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.ValueTuple.dll
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\Npgsql.xml
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Buffers.xml
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Memory.xml
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Text.Json.xml
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Threading.Channels.xml
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\bin\Debug\System.ValueTuple.xml
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\obj\Debug\FinalParcial.Form1.resources
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\obj\Debug\FinalParcial.frmAdmi.resources
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\obj\Debug\FinalParcial.frmcambiarcontra.resources
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\obj\Debug\FinalParcial.frmVigilant.resources
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\obj\Debug\FinalParcial.FrmEmployee.resources
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Ri0\Downloads\POOF_00083917\Parcial Final\PreParcial\obj\Debug\WindowsFormsApp2.pdb

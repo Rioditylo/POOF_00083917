@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\CORE i5\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\CORE i5\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\CORE i5\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\CORE i5\Desktop\Nueva carpeta\Nueva carpeta\POOF_00018619_00012119\parcialfinal\PreParcial" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Clasescomunes" t="Include">
+        <e p="AddDepartamento.cs" t="Include" />
+        <e p="AddRegistro.cs" t="Include" />
+        <e p="AddUsuario.cs" t="Include" />
+      </e>
+      <e p="Controllers" t="Include">
+        <e p="Connection.cs" t="Include" />
+        <e p="DepartamentController.cs" t="Include" />
+        <e p="EmployeeController.cs" t="Include" />
+        <e p="RegisterController.cs" t="Include" />
+      </e>
+      <e p="Exception" t="Include">
+        <e p="DepartmentException.cs" t="Include" />
+        <e p="UserException.cs" t="Include" />
+      </e>
+      <e p="Form1.cs" t="Include" />
+      <e p="Form1.Designer.cs" t="Include" />
+      <e p="Form1.resx" t="Include" />
+      <e p="frmAdmi.cs" t="Include" />
+      <e p="frmAdmi.Designer.cs" t="Include" />
+      <e p="frmAdmi.resx" t="Include" />
+      <e p="frmcambiarcontra.cs" t="Include" />
+      <e p="frmcambiarcontra.Designer.cs" t="Include" />
+      <e p="frmcambiarcontra.resx" t="Include" />
+      <e p="frmEmpleado.Designer.cs" t="Include" />
+      <e p="frmEmpleado.resx" t="Include" />
+      <e p="frmEmployee.cs" t="Include" />
+      <e p="FrmEmployee.Designer.cs" t="Include" />
+      <e p="FrmEmployee.resx" t="Include" />
+      <e p="frmVigilant.cs" t="Include" />
+      <e p="Model" t="Include">
+        <e p="Departament.cs" t="Include" />
+        <e p="Registry.cs" t="Include" />
+        <e p="User.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="Strategy" t="Include">
+        <e p="IStrategy.cs" t="Include" />
+        <e p="SAdmin.cs" t="Include" />
+        <e p="SEmployee.cs" t="Include" />
+        <e p="SVigilant.cs" t="Include" />
+      </e>
+      <e p="WindowsFormsApp2.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+CREATE TABLE DEPARTAMENTO(
+     iddepartamento SERIAL PRIMARY KEY,
+     nombre VARCHAR(50) NOT NULL,
+     ubiacion VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE USUARIO(
+  idusuario  SERIAL NOT NULL,
+  iddedepartamento INTEGER NOT NULL,
+  contrasenia VARCHAR(50) NOT NULL,
+  nombre VARCHAR(50) NOT NULL,
+  apellido VARCHAR(50) NOT NULL,
+  dui VARCHAR(50) NOT NULL,
+  fechanacimiento VARCHAR(50) NOT NULL,
+  PRIMARY KEY (idusuario),
+  FOREIGN KEY (iddedepartamento) REFERENCES DEPARTAMENTO(iddepartamento)
+);
+
+CREATE TABLE REGISTRO(
+    idregistro SERIAL PRIMARY KEY,
+    idusuario INTEGER NOT NULL,
+    entrada BOOL NOT NULL,
+    fechahora VARCHAR(50),
+    temperatura VARCHAR(50) NOT NULL,
+	FOREIGN KEY(idusuario) REFERENCES  USUARIO(idusuario)
+);
